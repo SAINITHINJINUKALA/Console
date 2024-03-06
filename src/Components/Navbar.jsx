@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div className='flex fixed w-screen  justify-around h-16 items-center font-HedvigLettersSans border-b-2 shadow-md z-20 bg-white'>
-        <div className='w-24 bg-slate-400 cursor-pointer'> 
+        <div className='w-24 cursor-pointer'> 
         <img src="https://console.zerodha.com/static/images/logo.svg" alt="" />
         </div>
 
